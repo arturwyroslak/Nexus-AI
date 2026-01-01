@@ -1,0 +1,7 @@
+streamlit
+openai
+langchain
+chromadb
+pydantic
+duckduckgo-search
+sentence-transformers
